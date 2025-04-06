@@ -18,4 +18,3 @@ services:
       timeout: 3s
 volumes:
   data_modeling_course:
-  
